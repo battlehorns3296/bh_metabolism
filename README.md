@@ -4,7 +4,7 @@
 - [fred_hud](https://github.com/josilv3296/fred_hud)
 
 ## How to install
-* Download the lastest release version of bh_river
+* Download the lastest release version of ```bh_metabolism```
 (If you dont use the release versions, you could get errors from it.
 Use it as your own risk)
 * Copy and paste ```bh_metabolism``` folder inside ```resources``` folder or any folder with ```[]``` name in it
