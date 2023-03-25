@@ -77,7 +77,7 @@ RegisterServerEvent("fred:drinkcanteen_20")
 AddEventHandler("fred:drinkcanteen_20", function()
     local _source = source 
     local playerinv = VorpInv.getUserInventory(_source)
-     VorpInv.addItem(_source, 'empty_canteen', 1)
+     VorpInv.addItem(_source, 'canteen_empty', 1)
 end)
 
 
